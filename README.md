@@ -13,10 +13,9 @@ dimana sourcode yang panjang pada html 5 akan berubah menjadi lebih simple code 
 - konek to db
 - crud data to db
 - pencarian dalam database
+- api menggunakan php
 - show data join
-- join data 3 tabel 
-- query dalam query
-- dan query data lainya
- 
+- join data 3 tabel
+
 
 
