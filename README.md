@@ -9,7 +9,7 @@ dimana sourcode yang panjang pada html 5 akan berubah menjadi lebih simple code 
 - statement
 - looping
 - function
-- array 1,2,3 dimensi
+- array
 - konek to db
 - crud data to db
 - pencarian dalam database
