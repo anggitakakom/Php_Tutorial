@@ -10,6 +10,7 @@
                 <th>nama</th>
                 <th>password</th>
                 <th>telepon</th>
+                <th></th>
             </tr>
             <?php
                 include('config.php');
