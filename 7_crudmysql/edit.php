@@ -3,7 +3,6 @@
 	$id = $_GET['id'];
 	$data = mysqli_query($koneksi,"SELECT * FROM siswa WHERE id=$id");
     $hasil = mysqli_fetch_assoc($data);
-    echo"data load";
 ?>
 <<!DOCTYPE html>
 <html>
